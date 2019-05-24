@@ -1,0 +1,12 @@
+
+body
+{
+	background-image: url(img/instagram.png);
+    border: 3px black double;
+    border-radius: 20px/10px;
+    box-shadow: 1px 1px 0px black;
+    width: 50%;
+    background-color: #DCDCDC;
+	font-family: Open Sans;
+    
+}
